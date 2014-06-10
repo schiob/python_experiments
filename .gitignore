@@ -1,2 +1,2 @@
 *.pyc
-mahotas/.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
